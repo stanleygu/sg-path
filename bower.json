@@ -1,0 +1,23 @@
+{
+  "name": "sg-path",
+  "version": "1.0.0",
+  "homepage": "https://github.com/stanleygu/sg-path",
+  "authors": [
+    "Stanley Gu <stanleygu@gmail.com>"
+  ],
+  "description": "Path module for angular",
+  "main": "path.js",
+  "keywords": [
+    "path",
+    "angular.js"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}
