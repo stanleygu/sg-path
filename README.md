@@ -8,7 +8,8 @@ Convenient for dealing with URLs.
 
 * Using bower, `bower install --save stanleygu/sg-path`
 * Add the module in your angular app definition:
-```
+
+```javascript
 angular.module('myApp', ['stanleygu.path']);
 ```
 
@@ -16,7 +17,7 @@ angular.module('myApp', ['stanleygu.path']);
 
 Getting repository info from Github API
 
-```
+```javascript
 angular.module('myApp')
   .controller('myCtrl', function ($scope, $http, sgPath) {
     var baseUrl = 'https://api.github.com';
