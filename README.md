@@ -1,6 +1,6 @@
 # Node.js Path service for angular
 
-Use the [node.js path module](http://nodejs.org/api/path.html) in Angular.
+Use the node.js path module (check out the [full documentation](http://nodejs.org/api/path.html)) in Angular.
 
 Convenient for dealing with URLs.
 
